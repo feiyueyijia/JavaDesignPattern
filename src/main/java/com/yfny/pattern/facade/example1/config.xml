@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>com.yfny.pattern.facade.example1.facade.NewEncryptFacade</className>
+</config>
