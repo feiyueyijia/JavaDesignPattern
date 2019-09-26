@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+    <!-- RefinedAbstraction -->
+    <className>com.yfny.pattern.bridge.example1.refinedAbstraction.JPGImage</className>
+    <!-- ConcreteImplementor -->
+    <className>com.yfny.pattern.bridge.example1.concreteInplementor.WindowsImp</className>
+</config>
