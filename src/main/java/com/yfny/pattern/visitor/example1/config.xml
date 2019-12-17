@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<config>
+    <className>com.yfny.pattern.visitor.example1.concreteVisitor.FADepartment</className>
+</config>
